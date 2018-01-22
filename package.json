@@ -1,0 +1,14 @@
+{
+  "name": "kidmath-dist",
+  "version": "1.0.0",
+  "description": "Math for kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "louis.perrin@proximcreation.fr",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^6.4.8"
+  }
+}
